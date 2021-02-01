@@ -1,4 +1,4 @@
-![texyky's github stats](https://github-readme-stats.vercel.app/api?username=texyky&theme=tokyonight&show_icons=true)
+![J9G's github stats](https://github-readme-stats.vercel.app/api?username=J9G&theme=tokyonight&show_icons=true)
 
 
 <!--
